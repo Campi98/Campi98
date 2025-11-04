@@ -1,4 +1,4 @@
-<h2 align="left">Hey there! My name is Campos and I'm a passionate Software Engineer. 😇</h2>
+<h2 align="center">Hey there! My name is Campos and I'm a recent CS grad 😇</h2>
 
 <h3 align="center">You can check out my Digital Portfolio <a href="https://campi98.github.io/CV-Digital/" target="_blank">here</a>.</h3>
 
